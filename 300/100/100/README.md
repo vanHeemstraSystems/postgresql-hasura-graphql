@@ -52,13 +52,3 @@ In order to feed data for a chemcomplexity diagram (see https://github.com/vanHe
 
 ![Render_Hasura_GraphQL-012](https://user-images.githubusercontent.com/1499433/229522231-9ca3b96b-8edd-4a05-a367-6923be82a327.png)
 "Links" table
-
-Ultimately we can request the following query that will give us the required response:
-
-![Render_Hasura_GraphQL-010](https://user-images.githubusercontent.com/1499433/229520177-86737598-3a90-4a6b-a7e7-06ba53bc3a88.png)
-
-Now we can use this query to draw our "Cereal" as a molecule (see https://github.com/vanHeemstraSystems/chemplexity-servings):
-
-== screenshot should go here ==
-
-Hooray!
