@@ -50,7 +50,7 @@ In order to feed data for a chemcomplexity diagram (see https://github.com/vanHe
 ![Render_Hasura_GraphQL-011](https://user-images.githubusercontent.com/1499433/229521560-7d864316-8554-4492-9cb6-5e71f02dcaa6.png)
 "Nodes" table
 
-
+![Render_Hasura_GraphQL-012](https://user-images.githubusercontent.com/1499433/229522231-9ca3b96b-8edd-4a05-a367-6923be82a327.png)
 "Links" table
 
 Ultimately we can request the following query that will give us the required response:
