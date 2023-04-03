@@ -47,7 +47,11 @@ The newly created rows should contain the following:
 
 In order to feed data for a chemcomplexity diagram (see https://github.com/vanHeemstraSystems/chemplexity-servings), we are going to create two more tabels: **nodes** and **links** as follows:
 
+![Render_Hasura_GraphQL-011](https://user-images.githubusercontent.com/1499433/229521560-7d864316-8554-4492-9cb6-5e71f02dcaa6.png)
+"Nodes" table
 
+
+"Links" table
 
 Ultimately we can request the following query that will give us the required response:
 
