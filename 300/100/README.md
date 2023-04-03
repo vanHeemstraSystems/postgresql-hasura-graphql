@@ -12,9 +12,18 @@ Now you can start working with Hasura:
 
 ## 100 - Create a table
 
-Based on "Create a table" at https://hasura.io/docs/latest/graphql/core/getting-started/docker-simple.html#create-a-table
+See [README.md](./100/README.md)
 
-MORE ...
+## 200 - Test GraphQL queries
+
+See [README.md](./200/README.md)
+
+## 300 - Read how Hasura GraphQL Engine works
+
+See [README.md](./300/README.md)
+
+
+
 
 ## 200 - Test GraphQL queries
 
