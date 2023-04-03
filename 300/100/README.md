@@ -35,6 +35,13 @@ The created instance of Hasura GraphQL
 
 By default, the Hasura GraphQL web console is not password-protected. To secure it, create an environment variable named ```HASURA_GRAPHQL_ADMIN_SECRET``` for the web service you just deployed in the Render Dashboard.
 
+For this go to https://dashboard.render.com/web/srv-cglaj98rddleudr00ku0/env and add an Environment Variable Key and Value as follows:
+
+![Render_Hasura_GraphQL-004](https://user-images.githubusercontent.com/1499433/229489663-c8db66d9-e7b5-49ea-bd58-17506c9c4206.png)
+Result from Adding an Environment Variable
+
+**REMEMBER** the value of the ```HASURA_GRAPHQL_ADMIN_SECRET``` well, as you may need to enter it later on.
+
 Now you can start working with Hasura:
 
 ## 100 - Create a table
