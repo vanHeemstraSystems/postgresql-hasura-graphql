@@ -45,4 +45,16 @@ The newly created rows should contain the following:
 
 ![Render_Hasura_GraphQL-008](https://user-images.githubusercontent.com/1499433/229494820-f38f1680-480b-401e-8c12-a2bf00e846bf.png)
 
-MORE ...
+In order to feed data for a chemcomplexity diagram (see https://github.com/vanHeemstraSystems/chemplexity-servings), we are going to create two more tabels: **nodes** and **links** as follows:
+
+
+
+Ultimately we can request the following query that will give us the required response:
+
+![Render_Hasura_GraphQL-010](https://user-images.githubusercontent.com/1499433/229520177-86737598-3a90-4a6b-a7e7-06ba53bc3a88.png)
+
+Now we can use this query to draw our "Cereal" as a molecule (see https://github.com/vanHeemstraSystems/chemplexity-servings):
+
+== screenshot should go here ==
+
+Hooray!
