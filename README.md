@@ -25,7 +25,7 @@ Related to "Chemplexity Servings" at https://github.com/vanHeemstraSystems/chemp
 }
 ```
 
-To achieve the above, read https://shusson.info/post/building-nested-json-objects-with-postgres
+To achieve the above, read https://shusson.info/post/building-nested-json-objects-with-postgres and "Nested types in actions" at https://www.youtube.com/watch?v=lSAhkkrcK6s
 
 # 100 - Introduction
 
