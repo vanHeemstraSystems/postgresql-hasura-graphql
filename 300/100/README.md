@@ -6,6 +6,29 @@ Click Deploy to Render below to set up Hasura GraphQL Engine on your Render acco
 
 [Deploy to Render](https://render.com/deploy?repo=https://github.com/render-examples/hasura-graphql)
 
+![Render_Hasura_GraphQL-001](https://user-images.githubusercontent.com/1499433/229482309-854523b1-c96c-403c-a6f4-a2be534a392c.png)
+Result from "Deploy to Render".
+
+For the **Blueprint Name**, we enter: **Servings**
+
+A unique name for your Blueprint.
+
+For the **Branch**, we enter: **master** (default)
+
+The repository branch with the render.yaml file.
+
+Confirm by clicking the "Apply" button.
+
+Next, a hasura database will be created. See https://dashboard.render.com/d/dpg-cglaj0grddleudqvvub0-a
+
+Finally, a hasura web service will be created. See https://dashboard.render.com/web/srv-cglaj98rddleudr00ku0
+
+You will be prompted as follows:
+
+"*Your changes were applied successfully! See your Blueprint instance's [managed resources](https://dashboard.render.com/blueprint/exs-cglaesseoogkndnaou3g/resources).*"
+
+
+
 By default, the Hasura GraphQL web console is not password-protected. To secure it, create an environment variable named ```HASURA_GRAPHQL_ADMIN_SECRET``` for the web service you just deployed in the Render Dashboard.
 
 Now you can start working with Hasura:
