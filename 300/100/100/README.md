@@ -43,5 +43,6 @@ The newly created rows should contain the following:
 | auto-incremented integer | Multigrain | 5 | #FFFFFF |
 | auto-incremented integer | Oat Meal | 5 | #FFFFFF |
 
+![Render_Hasura_GraphQL-008](https://user-images.githubusercontent.com/1499433/229494820-f38f1680-480b-401e-8c12-a2bf00e846bf.png)
 
 MORE ...
