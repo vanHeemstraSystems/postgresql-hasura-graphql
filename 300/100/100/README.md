@@ -26,8 +26,7 @@ Columns:
 
 Primary Key: **id**
 
-
-
+![Render_Hasura_GraphQL-006](https://user-images.githubusercontent.com/1499433/229492864-40e56cb7-ee20-47ab-80ae-6f34a6bdec3f.png)
 
 Click "**Add Table**"
 
