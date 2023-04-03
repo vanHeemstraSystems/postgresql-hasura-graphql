@@ -30,5 +30,18 @@ Primary Key: **id**
 
 Click "**Add Table**"
 
+Now, insert some sample data into the table using the ```Insert Row``` tab of the cereals table.
+
+![Render_Hasura_GraphQL-007](https://user-images.githubusercontent.com/1499433/229493549-e1e92cfe-a6bf-4373-a379-ee78cc6fe312.png)
+
+The newly created rows should contain the following:
+
+| id | atom | size | color |
+| --- | --- | --- | --- |
+| auto-incremented integer | Milk | 5 | #FFFFFF |
+| auto-incremented integer | Oat Flakes | 5 | #FFFFFF |
+| auto-incremented integer | Multigrain | 5 | #FFFFFF |
+| auto-incremented integer | Oat Meal | 5 | #FFFFFF |
+
 
 MORE ...
