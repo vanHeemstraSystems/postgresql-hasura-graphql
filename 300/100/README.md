@@ -21,18 +21,3 @@ See [README.md](./200/README.md)
 ## 300 - Read how Hasura GraphQL Engine works
 
 See [README.md](./300/README.md)
-
-
-
-
-## 200 - Test GraphQL queries
-
-Based on "Test GraphQL queries" at https://hasura.io/docs/latest/graphql/core/getting-started/docker-simple.html#try-out-a-query
-
-MORE ...
-
-## 300 - Read how Hasura GraphQL Engine works
-
-Based on "Read how Hasura GraphQL Engine works" at https://hasura.io/docs/latest/graphql/core/how-it-works/index.html
-
-MORE ...
