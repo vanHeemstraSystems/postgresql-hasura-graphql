@@ -27,7 +27,8 @@ You will be prompted as follows:
 
 "*Your changes were applied successfully! See your Blueprint instance's [managed resources](https://dashboard.render.com/blueprint/exs-cglaesseoogkndnaou3g/resources).*"
 
-
+![Render_Hasura_GraphQL-002](https://user-images.githubusercontent.com/1499433/229484456-7110644c-5537-4125-93b1-a3642beb4d97.png)
+Result from "Apply".
 
 By default, the Hasura GraphQL web console is not password-protected. To secure it, create an environment variable named ```HASURA_GRAPHQL_ADMIN_SECRET``` for the web service you just deployed in the Render Dashboard.
 
