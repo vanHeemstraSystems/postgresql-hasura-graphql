@@ -30,6 +30,9 @@ You will be prompted as follows:
 ![Render_Hasura_GraphQL-002](https://user-images.githubusercontent.com/1499433/229484456-7110644c-5537-4125-93b1-a3642beb4d97.png)
 Result from "Apply".
 
+![Render_Hasura_GraphQL-003](https://user-images.githubusercontent.com/1499433/229485085-d5d55b24-411a-4863-b6b6-ce45dd4cba17.png)
+The created instance of Hasura GraphQL
+
 By default, the Hasura GraphQL web console is not password-protected. To secure it, create an environment variable named ```HASURA_GRAPHQL_ADMIN_SECRET``` for the web service you just deployed in the Render Dashboard.
 
 Now you can start working with Hasura:
