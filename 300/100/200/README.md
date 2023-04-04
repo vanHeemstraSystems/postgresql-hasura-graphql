@@ -85,7 +85,6 @@ Try it by clicking the "Run Request" button:
 ```
 Response from REST request
 
-
 Now we can use this query to draw our "Cereal" as a molecule (see https://github.com/vanHeemstraSystems/chemplexity-servings):
 
 ```
@@ -99,5 +98,8 @@ d3.json("https://hasura-7exz.onrender.com/api/rest/cereal", function(graph) {
 index.html
 
 In ```index.html``` we replace the reference for d3 to the local json data file ```cereal.json``` by the REST GET request URL ```https://hasura-7exz.onrender.com/api/rest/cereal```
+
+To test the index.html file locally, you can visit https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb and click the "Launch app" button after installation of the "Web Server for Chrome" extension. Set the folder in which you host index.html and visit the URL (here: http://127.0.0.1:8887) to see your web page.
+
 
 == screenshot should go here ==
