@@ -36,8 +36,52 @@ Now from a browser or from within code open this URL: https://hasura-7exz.onrend
 
 It will return the same result as if requested as a GraphQL request (which is always a POST method), but now using the REST protocol (here: using the GET method instead).
 
-```
+Try it by clicking the "Run Request" button:
 
+![Render_Hasura_GraphQL-015](https://user-images.githubusercontent.com/1499433/229818490-eedc1f54-c712-4802-8edb-b634aa036624.png)
+
+```
+{
+    "nodes": [
+        {
+            "atom": "Milk",
+            "size": 5,
+            "color": "#FFFFFF"
+        },
+        {
+            "atom": "Oat Flakes",
+            "size": 5,
+            "color": "#FFFFFF"
+        },
+        {
+            "atom": "Multigrain",
+            "size": 5,
+            "color": "#FFFFFF"
+        },
+        {
+            "atom": "Oat Meal",
+            "size": 5,
+            "color": "#FFFFFF"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "bond": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "bond": 1
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "bond": 1
+        }
+    ]
+}
 ```
 Response from REST request
 
