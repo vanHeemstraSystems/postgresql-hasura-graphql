@@ -88,4 +88,16 @@ Response from REST request
 
 Now we can use this query to draw our "Cereal" as a molecule (see https://github.com/vanHeemstraSystems/chemplexity-servings):
 
+```
+...
+// d3.json("cereal.json", function(graph) {
+d3.json("https://hasura-7exz.onrender.com/api/rest/cereal", function(graph) {
+  ...
+}
+...
+```
+index.html
+
+In ```index.html``` we replace the reference for d3 to the local json data file ```cereal.json``` by the REST GET request URL ```https://hasura-7exz.onrender.com/api/rest/cereal```
+
 == screenshot should go here ==
