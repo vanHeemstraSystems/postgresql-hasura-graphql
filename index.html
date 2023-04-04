@@ -80,7 +80,7 @@ d3.json("https://hasura-7exz.onrender.com/api/rest/cereal", function(graph) {
         .attr("dy", ".35em")
         .attr("text-anchor", "middle")
         .text(function(d) { return d.atom; })
-        .style("fill", function(d) { return d.color; });
+        .style("fill", function(d) { return d.font_color; });
 
     function tick() {
         link.selectAll("line")
