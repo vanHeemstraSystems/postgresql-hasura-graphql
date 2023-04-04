@@ -105,4 +105,4 @@ To test the index.html file locally, you can visit https://chrome.google.com/web
 
 ![Web_Server_for_Chrome-002](https://user-images.githubusercontent.com/1499433/229829498-456db07c-757b-4674-a92e-638ade860e9d.png)
 
-P.S. You could change the font color in the molecule of cereal by changing the hex value in the json from "color": "#FFFFFF" to for example "color": "#808080" (for grey, instead of white). 
+P.S. You could change the font color in the molecule of cereal by changing the hex value in the json from "color": "#FFFFFF" to for example "color": "#808080" (for grey, instead of white). **WARNING**: Currently the fill of the circle takes the same color as the text.
