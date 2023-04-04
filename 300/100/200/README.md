@@ -101,5 +101,6 @@ In ```index.html``` we replace the reference for d3 to the local json data file 
 
 To test the index.html file locally, you can visit https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb and click the "Launch app" button after installation of the "Web Server for Chrome" extension. Set the folder in which you host index.html and visit the URL (here: http://127.0.0.1:8887) to see your web page.
 
+![Web_Server_for_Chrome-001](https://user-images.githubusercontent.com/1499433/229828681-da95fd08-7630-4f6f-8b67-5eeca953da10.png)
 
 == screenshot should go here ==
