@@ -24,7 +24,7 @@ We can create an Endpoint from a GraphQL query to a REST request (e.g. GET, POST
 
 In Hasura create an Endpoint for our cereal query as depicted below (we call it ```cereal```:
 
-
+![Render_Hasura_GraphQL-013](https://user-images.githubusercontent.com/1499433/229817006-f3a01d4b-16a0-4324-b980-e2b63fdfc3a5.png)
 
 Then click "Create Endpoint"
 
