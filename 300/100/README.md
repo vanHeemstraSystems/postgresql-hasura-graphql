@@ -48,7 +48,7 @@ Now you can start working with Hasura:
 
 See [README.md](./100/README.md)
 
-## 200 - Test GraphQL queries
+## 200 - Test GraphQL and REST queries
 
 See [README.md](./200/README.md)
 
