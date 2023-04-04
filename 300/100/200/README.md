@@ -28,6 +28,10 @@ In Hasura create an Endpoint for our cereal query as depicted below (we call it 
 
 Then click "Create Endpoint"
 
+![Render_Hasura_GraphQL-014](https://user-images.githubusercontent.com/1499433/229817609-8075da98-f3b3-4862-a4eb-222ca8964a43.png)
+
+See https://hasura-7exz.onrender.com/console/api/rest/list for above page
+
 Now from a browser or from within code open this URL: https://hasura-7exz.onrender.com/api/rest/cereal
 
 It will return the same result as if requested as a GraphQL request (which is always a POST method), but now using the REST protocol (here: using the GET method instead).
